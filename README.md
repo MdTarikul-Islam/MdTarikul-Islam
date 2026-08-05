@@ -16,7 +16,6 @@
 - 💻 Passionate about Programming & Software Engineering
 - 🌱 Currently learning **C++**, **Data Structures & Algorithms**
 - ⚛️ Exploring **React**, **JavaScript**, **Node.js** & **MongoDB**
-- 🗄️ Familiar with **SQL** & **Microsoft SQL Server**
 - 🚀 Building practical projects to improve my skills
 - 🎯 Goal: Become a Full Stack Software Engineer
 
